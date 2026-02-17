@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Peephole",
+  "base_artist": "System Of A Down",
+  "createdAt": "2026-02-17T13:43:57.415311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Peephole",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/01_Peephole_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Peephole",
+      "artist": "Sammy Hagar",
+      "has_synced": false,
+      "path": "select/02_Peephole_Sammy_Hagar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What The Peephole Say",
+      "artist": "Queens of the Stone Age",
+      "has_synced": false,
+      "path": "select/03_What_The_Peephole_Say_Queens_of_the_Stone_Age.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Peephole",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/04_Peephole_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Peephole (Album Version)",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/05_Peephole_(Album_Version)_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What the Peephole Say",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/06_What_the_Peephole_Say_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "10 - Peephole",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/07_10_-_Peephole_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Peephole",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/08_Peephole_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Peephole",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/09_Peephole_System_of_a_Down.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Peephole",
+      "artist": "System Of A Down",
+      "has_synced": false,
+      "path": "select/pl_01_Peephole_System_Of_A_Down.txt"
+    }
+  ]
+}
